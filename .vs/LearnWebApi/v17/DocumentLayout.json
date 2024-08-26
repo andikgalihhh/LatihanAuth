@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|c:\\users\\user\\onedrive\\documents\\mandiri\\project\\learnauth\\learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Application\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:11:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T06:10:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:09:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:09:02.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA4wBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:08:27.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTableSpecificationsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\Mandiri\\Project\\learnAuth\\LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:07:47.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
